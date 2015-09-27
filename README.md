@@ -7,6 +7,10 @@ This library provides Elm bindings for the Freelancer API. It was created for th
 
 Free for use in commercial and non-commercial projects, see LICENSE for details.
 
+### Installation
+
+```elm-package install Freesourcer/elm-freelancer```
+
 ### Authors:
 
 - Luke Williams (shmookey)
