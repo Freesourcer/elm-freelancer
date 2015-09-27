@@ -7,5 +7,6 @@ Free for use in commercial and non-commercial projects, see LICENSE for details.
 
 
 Authors:
--Luke Williams @shmookey
--Emma Faina Hayes @freesourcer
+
+- Luke Williams @shmookey
+- Emma Faina Hayes @freesourcer
